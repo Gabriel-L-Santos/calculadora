@@ -1,1 +1,69 @@
-@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+input {
+    color: #FFF;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Archivo', sans-serif;
+    border-radius: 20%;
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text {
+    width: 160px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1 {
+    width: 65px;
+    border-radius: 22px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+    border-color: white;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: #000;
+}
+
+.plus {
+    background-color: #0cd0cd;
+}
+
+.minus {
+    background-color: red;
+}
+
+.times {
+    background-color: rgb(146, 18, 231);
+}
+
+.equals {
+    background-color: rgb(23, 209, 69);
+}
+
+.divided {
+    background-color: rgb(255, 230, 1);
+}
