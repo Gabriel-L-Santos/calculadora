@@ -6,7 +6,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #000;
+    background: #000000 url("background.jpg") no-repeat fixed;
+    background-size: cover;
 }
 
 input {
@@ -26,6 +27,7 @@ input {
 .text {
     width: 160px;
     border-radius: 22px;
+    border-color: rgb(0, 0, 0);
     letter-spacing: 5px;
     text-align: center;
     margin-bottom: 12px;
@@ -37,11 +39,15 @@ input {
     text-align: center;
     margin-bottom: 12px;
     cursor: pointer;
-    border-color: white;
+    border-color: rgb(0, 0, 0);
 }
 
 .main {
     display: inline-block;
+    background:#FFF;
+    padding: 22px;
+    border-radius: 20px;
+    box-shadow: 0 4px 25px rgb(0 0 0);
 }
 
 .maincolor {
