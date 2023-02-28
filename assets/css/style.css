@@ -44,32 +44,45 @@ input {
 
 .main {
     display: inline-block;
-    background:#FFF;
+    background: rgb(22,22,22);
+    background: radial-gradient(circle, rgba(22,22,22,1) 89%, rgba(37,37,37,1) 100%);
     padding: 22px;
     border-radius: 20px;
-    box-shadow: 0 4px 25px rgb(0 0 0);
+    box-shadow: 0 -15px 110px 35px rgb(0 0 0);
 }
 
 .maincolor {
-    background-color: #000;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 45%, rgba(170,170,170,1) 100%, rgba(170,170,170,1) 100%);
+    color: rgb(0, 0, 0);
 }
 
 .plus {
-    background-color: #0cd0cd;
+    background: rgb(114,203,128);
+    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
+    color: rgb(0, 0, 0);
 }
 
 .minus {
-    background-color: red;
+    background: rgb(114,203,128);
+    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
+    color: rgb(0, 0, 0);
 }
 
 .times {
-    background-color: rgb(146, 18, 231);
+    background: rgb(114,203,128);
+    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
+    color: rgb(0, 0, 0);
 }
 
 .equals {
-    background-color: rgb(23, 209, 69);
+    background: rgb(114,203,128);
+    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
+    color: rgb(0, 0, 0);
 }
 
 .divided {
-    background-color: rgb(255, 230, 1);
+    background: rgb(114,203,128);
+    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
+    color: rgb(0, 0, 0);
 }
