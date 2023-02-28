@@ -48,7 +48,7 @@ input {
     background: radial-gradient(circle, rgba(22,22,22,1) 89%, rgba(37,37,37,1) 100%);
     padding: 22px;
     border-radius: 20px;
-    box-shadow: 0 -15px 110px 35px rgb(0 0 0);
+    box-shadow: 0 -10px 140px 25px rgb(0 0 0);
 }
 
 .maincolor {
