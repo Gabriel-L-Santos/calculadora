@@ -107,6 +107,10 @@ input {
     cursor: pointer;
 }
 
+#icon-footer:hover {
+    color:rgba(43, 216, 109, 0.678);
+}
+
 footer p {
     font-family: 'Titillium Web', sans-serif;
     font-size: 18px;
