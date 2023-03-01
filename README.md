@@ -2,14 +2,14 @@
 
 ## Deploy do projeto
 
-<link em breve...>
+<https://calculadora-gabriel-leme-dos-santos.vercel.app/>
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![Showcase da Calculadora - gif](./img-gif-readme/buscador-cep-showcase.gif)
+![Showcase da Calculadora - gif](./assets/img-gif-readme/calculadora.gif)
 
-![Screenshot da Calculadora](./img-gif-readme/buscador-cep-screenshot.png)
+![Screenshot da Calculadora](./assets/img-gif-readme/calculadora-showcase.png)
 
 Texto em breve...
 
