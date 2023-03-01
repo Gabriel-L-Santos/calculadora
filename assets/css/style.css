@@ -58,34 +58,19 @@ input {
     color: rgb(0, 0, 0);
 }
 
-.plus {
-    background: rgb(114,203,128);
-    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
-    color: rgb(0, 0, 0);
+.maincolor:hover {
+    background: rgba(255, 255, 255, 0.596);
 }
 
-.minus {
+.plus, .minus, .times, .equals, .divided {
     background: rgb(114,203,128);
     background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
     color: rgb(0, 0, 0);
+    cursor: pointer;
 }
 
-.times {
-    background: rgb(114,203,128);
-    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
-    color: rgb(0, 0, 0);
-}
-
-.equals {
-    background: rgb(114,203,128);
-    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
-    color: rgb(0, 0, 0);
-}
-
-.divided {
-    background: rgb(114,203,128);
-    background: radial-gradient(circle, rgba(81,171,95,1) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
-    color: rgb(0, 0, 0);
+.plus:hover, .minus:hover, .times:hover, .equals:hover, .divided:hover {
+    background: radial-gradient(circle, rgba(81, 171, 95, 0.596) 45%, rgba(29,119,43,1) 100%, rgba(29,119,43,1) 100%);
 }
 
 #footer {
