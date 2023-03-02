@@ -11,23 +11,16 @@
 
 ![Screenshot da Calculadora](./assets/img-gif-readme/calculadora-showcase.png)
 
-Texto em breve...
+Este é um projeto de uma calculadora usando HTML, CSS e Javascript. Os ícones abaixo do meu nome levam para os meus perfis no Linkedin e GitHub.
 
 ## Tabela de Conteúdos
 
-- [Meu Processo de Desenvolvimento](#meu-processo-de-desenvolvimento)
 - [Recursos Usados](#recursos-usados)
 - [Autor do Projeto](#autor-do-projeto)
 
-## Meu processo de Desenvolvimento
-
-Texto em breve...
-
 ### Recursos Usados
 
-- [Viacep](https://viacep.com.br/ws/) - (texto em breve...)
-
-- [Vercel](https://vercel.com/) - (texto em breve...)
+- [Font Awesome](https://fontawesome.com/) - (biblioteca de ícones usada para este projeto)
 
 ## Autor do Projeto
 
