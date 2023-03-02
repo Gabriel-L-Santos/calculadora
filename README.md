@@ -18,7 +18,7 @@ Este é um projeto de uma calculadora usando HTML, CSS e Javascript. Os ícones 
 - [Recursos Usados](#recursos-usados)
 - [Autor do Projeto](#autor-do-projeto)
 
-### Recursos Usados
+## Recursos Usados
 
 - [Font Awesome](https://fontawesome.com/) - (biblioteca de ícones usada para este projeto)
 
